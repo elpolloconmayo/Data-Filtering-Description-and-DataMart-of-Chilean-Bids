@@ -1,5 +1,11 @@
 # Data-Filtering-Description-and-DataMart-of-Chilean-Bids
-Data cleansing, EDA and creation of a DataMart using a dataset of Chilean Bids from 2019 till 2023
+Project contains:
+- Data Cleansing (or filtering)
+- Exploratory Data Analysis
+- DataMart
+- OLAP
+- Final Report
+Using a dataset of Chilean Bids from 2019 till 2023
 
 ## Important notes
 This is a project developed for educational purposes for the subject “Business Intelligence” of the “Universidad Arturo Prat”, the result of the project can be found in the report “DataMart Report”.
