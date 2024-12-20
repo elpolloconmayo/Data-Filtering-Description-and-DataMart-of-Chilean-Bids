@@ -5,6 +5,7 @@ Project contains:
 - DataMart
 - OLAP
 - Final Report
+
 Using a dataset of Chilean Bids from 2019 till 2023
 
 ## Important notes
